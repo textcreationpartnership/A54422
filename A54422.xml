@@ -1,0 +1,622 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some fruits of a tender branch, sprung from the living vine being a collection of several sound and godly letters, written by that faithful servant of God, Benjamin Padley. With diverse living testimonies to that innocent life, in which he walked, and continued to the end of his day.</title>
+            <author>Padley, Benjamin, 1658 or 9-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54422</idno>
+            <idno type="STC">Wing P161</idno>
+            <idno type="STC">ESTC R217466</idno>
+            <idno type="EEBO-CITATION">99829131</idno>
+            <idno type="PROQUEST">99829131</idno>
+            <idno type="VID">33567</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33567)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1974:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some fruits of a tender branch, sprung from the living vine being a collection of several sound and godly letters, written by that faithful servant of God, Benjamin Padley. With diverse living testimonies to that innocent life, in which he walked, and continued to the end of his day.</title>
+                  <author>Padley, Benjamin, 1658 or 9-1687.</author>
+               </titleStmt>
+               <extent>[2], 52, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Northcott in ..,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Note: copy catalogued is cropped at foot, affecting text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Padley, Benjamina --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33567:1" rendition="simple:additions"/>
+            <p>SOME FRUITS OF A Tender Branch, Sprung from the <hi>Living Vine:</hi> Being A COLLECTION Of Several Sound and Godly LETTERS, Written by that <hi>Faithful Servant of</hi> God, <hi>Benjamin Padley.</hi>
+            </p>
+            <p>WITH Diverſe Living Teſtimonies to that Innocent Life, in which he walked, and continued to the End of his Day.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Northcott</hi> in <gap reason="illegible" resp="#PDCC" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:33567:2"/>
+            <pb facs="tcp:33567:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:33567:3"/>
+            <pb n="1" facs="tcp:33567:3"/>
+            <head>This is my Teſtimony concerning my Dea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Husband, <hi>Benjamin Padley,</hi> wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> departed this Life the 25th. of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 6th. Month, <hi>1687.</hi> being in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 29th. Year of his Age.</head>
+            <p>WHo the Lord hath been pleaſed to ſe<g ref="char:EOLunhyphen"/>parate from me, whom my Soul ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> true Union with, and many ſwee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Opportunities we had together and we have often rejoyced together, when we did behold the Wonderful Kindneſs of our God; and now the Lord hath been pleaſed to ſeparate him from me, and take him unto him<g ref="char:EOLhyphen"/>ſelf, I can ſay of a Truth, he was a dear and loving Husband unto me, and a true Lover o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all that feared the LORD; and it was that which his Soul delighted in the Proſperity o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Truth, and would ſay many times, he could even ſpend his Time continually in waiting upon the Lord, and freely leave all outward things to go abroad to Anſwer the Will and Requirings of the Lord; and he was one that was not idle in that Work and Service, which the Lord called him to, but his great Care was, That he might be faithful in what the Lord required at his hand, and that he might neither be too forward nor too backward, but
+<pb n="2" facs="tcp:33567:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o fulfil the Work of the Lord faithfully, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is great deſire was, that Friends would be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery diligent in meeting together, and not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nly ſo, but that they would be diligent <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd watchful when they were met together, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o wait upon the LORD, and not be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>othful, but to conſider for what end they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et together, that the Lord might be honour<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by them, and that they might receive the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enefit and Comfort which they all do receive <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat is watchful and obedient; and his Mind <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as, as I may truly ſay, clearly weaned from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff all Worldly Things, and ſet upon things which is above, for he was freely given up <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Will of the Lord, to his diſpoſing, to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſpoſe of him, as he ſee good; for as he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id declare to me on his dying Bed, If the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord have any further Work or Service for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to do, I deſire to be faithful, and if not, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>am very well ſatisfied; and ſo the Lord hath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een pleaſed to take him unto himſelf, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow he hath received a Crown of Joy, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough I find it a great Exerciſe and Tryal to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art with ſuch a dear Husband, and one whom<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny Soul with his and many dear Friends more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere often refreſhed together in the preſence of the Lord, but ſince it is his Will to call <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im from me, I deſire to be ſatisfied with the Will of the Lord, and that I may not mur<g ref="char:EOLhyphen"/>mur againſt the hand of the Lord, but be willing to give him up, being well ſatisfied that my Loſs is his great Gain, and even re<g ref="char:EOLhyphen"/>turn
+<pb n="3" facs="tcp:33567:4"/>Praiſes unto the Lord, who orders and diſpoſes of all things as he ſees good; and as <hi>Job</hi> ſaid, <hi>The Lord gives, and the Lord take away, bleſſed be the Name of the Lord;</hi> for he alone it is that knows what is beſt for us and ſo I deſire to be ſatisfied with his Will for he alone doth work wonderfully, beyond the Expectation of either Man or Woman <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for when I conſider how wonderfully he was pleaſed to carry my dear Husband thro' his great Exerciſe, and what Patience he bore i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with, it cauſed me to bleſs the Lord for it for he bore it with great Patience, and the Lord was pleaſed to raiſe up his Spirits won<g ref="char:EOLhyphen"/>derfully, to the refreſhing and ſatisfaction o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my Soul, and many more. The day befor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he was taken out of the Body, ſeveral Neigh<g ref="char:EOLunhyphen"/>bours and Friends came in, and he deſired hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Neighbours to ſtay, and ſitting a pretty whil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to wait upon the Lord, he opened his Mout<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Exhortation to them to fear God and de<g ref="char:EOLunhyphen"/>part from Iniquity; and he ſpake many pre<g ref="char:EOLunhyphen"/>cious Words to them in declaration, and a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſo went to Prayer, which, to ſee his Weak<g ref="char:EOLunhyphen"/>neſs, made us to admire, and it was to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> admiration of them that were there preſent for it was the wonderful Work of our God for to all outward Appearance his Strengt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was almoſt ſpent, but the Lord was pleaſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to raiſe up his Spirits very wonderfully, b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> many of his Expreſſions cannot be remem<g ref="char:EOLunhyphen"/>bred; but this he ſpoke, which is remembred
+<pb n="4" facs="tcp:33567:5"/>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am glad,</hi> ſaid he, <hi>to ſee ſo many of your faces, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hought I ſhould not have ſeen ſo many of you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I have done, being the Lord hath been pleaſed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> viſit me with ſickneſs, ſo that I am brought ſo <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ak, that I am not likely to continue many <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ys here, but I feel nothing but all is well; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d when we were looking for help for him from <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>an,</hi> he ſaid, <hi>I have a Phyſitian the World knows <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of;</hi> and while he lay ſick, when I had <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en weeping beſides him, he would ſay, <hi>O <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oy d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt thou ſo, thou muſt not do ſo, keep but to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Truth, and fear not but all will be well;</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould ſay at nights, <hi>Go to bed and take thy <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t, and be not troubled about me;</hi> And when <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iends came to ſee him, he would ſay, <hi>My <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ar Love is with you, and remains with you all:</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd I know his dear Love was to all that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ved the Truth, and it was that which his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ul travelled for the proſperity of, and <hi>Sions</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lory; and the Lord was pleaſed to call him <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>th, into his work and ſervice abroad, to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſit Friends, and to bare his Teſtimony for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Lord; and his deſire was, That he might <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar it faithfully, and that he might be en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed with Power from on high, and ſo ſpeak <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Spirit gave him Utterance; and the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rd was pleaſed to endue him with a good <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>derſtanding and much knowledge, and of a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd delivery, ſo that the hearts of many <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re drawn near unto him, and he was drawn <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar unto many, and many ſweet Refreſh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nts we had together, and many ſweer Meet<g ref="char:EOLhyphen"/>ings
+<pb n="5" facs="tcp:33567:5"/>and Opportunities we had to the Refreſh<g ref="char:EOLhyphen"/>ment of our Souls, and many hearts were made glad, and my ſoul with his hath many a time been truly comforted together in the Lord; ſo that to part with ſuch a dear Husband, and one who I had much comfort in, I find it a hard thing to undergo, for he was a Man of great Service, and might have been if the Lord had ſeen good to have ſpared him; my Loſs is great, and many I do believe will find a Loſs of him beſides, but this is comfort to me, that the Lord was with him, and the Lord had drawn him off all worldly things, and ſurely had fitted him for himſelf, and now hath taken him out of this troubleſome World, and ſo he hath finiſhed his Courſe with Joy, and hath received the Crown which is laid up in ſtore for all the faithful ones; for as <hi>Paul</hi> ſaid, <hi>The Crown of Righ<g ref="char:EOLhyphen"/>teouſneſs he alone ſhall wear, that faithful to the end do perſevere;</hi> and I know it was his great deſire that he might walk ſo as to ob<g ref="char:EOLhyphen"/>tain that Crown, and I am ſatisfied the Lord hath anſwered his deſire; many of his ſweet words and expreſſions which he ſpake, can<g ref="char:EOLhyphen"/>not be remembred, which is a trouble to me that they were not taken notice of, but my Exerciſe being very great, That I could not remember many of them, and being the Lord hath been pleaſed to ſtrip me of him, which was the greateſt outward Comfort and Sup<g ref="char:EOLhyphen"/>port that I had, I deſire that I may be wil<g ref="char:EOLunhyphen"/>ling
+<pb n="6" facs="tcp:33567:6"/>to ſubmit to the Will of the Lord, and that my Will may ſubmit to his Will, and that I may not offend him; for as it is ſaid, <hi>If ye love any thing more than me, ye are not worthy of me;</hi> ſo he is able to make up all our Loſſes, as we ſtand faithful to him, and though my Loſs be great, in parting with ſuch a dear Husband, yet I firmly believe his Gain is great, and he is at reſt from all the Troubles and Incumbrances of this World, for many are the Tryals and Exerciſes that we meet with here in this troubleſome World, and therefore it is my great deſire that I may be preſerved thro' them all, and that the Lord alone may ſtay and anchor my Soul, that in all Tryals and Exerciſes, I may look unto him for help and wiſdom, to walk as becomes his Truth, and to order all things to his Glory, and that I may wait for Council from him, to be ordered and guided by him alone, and ſo return him the Praiſes and the Honour, who alone is worthy of all Honour and Glo<g ref="char:EOLhyphen"/>ry, for ever and evermore.</p>
+            <closer>
+               <signed>Suſanna Padley.</signed>
+               <dateline>
+                  <hi>Northcave,</hi> 
+                  <date>the 28th. of the 10th. Month, 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <head>A Short Account of <hi>B. P.</hi> his Expreſſions in the time of his Weakneſs, taken in writing from his Wifes own Mouth, <hi>&amp;c.</hi>
+            </head>
+            <p>HE took his ſickneſs in the 17th of the 6th Month, 1687. and continued till the 25
+<pb n="7" facs="tcp:33567:6"/>of the ſame, having long before had a ſence upon his ſpirit, that his time in this world might not be long, often declaring the ſame to his Dear Wife; and the day after he took his illneſs, he ſpoke as Concerning his two Children, on this wiſe, That the Lord would preſerve and keep them, and that they might if they lived, live to Honour his Name; or otherwiſe, if it might ſeem good in his ſight that they might be taken away in their Child<g ref="char:EOLhyphen"/>hood before ſin was too much rooted in them: On that day or the day following ſeveral of his Neighbours came to viſit him, his Dear Wife being by, he ſaid, It is well for them that can ſay on their dying beds, their ſins and iniquities are blotted out. At another time a friend coming into ſee him, he ſaid; my Dear Love is to thee, and to all friends; and I deſire you may be watchful and diligent in attending Meetings, often declaring his great Love to Friends. At another time he ſaid, If the Lord have any further work for me to do, I deſire I may be found faithful, and if not I am well ſatisfied in his will. And after<g ref="char:EOLhyphen"/>ward, the pain and ſickneſs being very ſharp upon him, he ſaid, O Lord, I pray thee lay no more upon thy ſervant, then thou gives him patience to bare; and I pray thee that thy afflictions may be mixt with mercy. His Wife weeping, being under very great Exerciſe be<g ref="char:EOLhyphen"/>cauſe of his Affliction, he ſaid unto her, O why do'ſt thou weep, thou muſt not do ſo,
+<pb n="8" facs="tcp:33567:7" rendition="simple:additions"/>for keep but to the Truth, and fear not but all will be well. And the very day before he dyed, he got up in the forenoon, and ſeveral friends, as alſo Neighbours and Relations came in to ſee him, and he being under a deep ſence of Gods love unto his Soul, begun to declare amongſt them, but few of his words is remembred, but there having been ſome words given out by ſome of the worlds people where he lived, while he was in the work and ſervice of the Lord, abroad viſiting Gods He<g ref="char:EOLhyphen"/>ritage, that he had Mony for Preaching, there<g ref="char:EOLhyphen"/>fore he ſpoke on this manner: It is not for any outward thing we Travel, neither is that by us lookt at, nor any mans Silver, or Gold, ſought or coveted after, but it's for the Gain<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of Souls; for ſaid he, we have ſuffered the loſs of our goods, ſcoffings, and ſcorn<g ref="char:EOLhyphen"/>ings, and impriſonment, ſo that it may ap<g ref="char:EOLhyphen"/>pear, it hath not been the looking at any be<g ref="char:EOLhyphen"/>nefit of any Mans Goods, or Eſtates, that hath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een in our eye, but for performing the will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Lord, and now it hath pleaſed him to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſit me with great weakneſs, ſo that I am not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike to continue many days here; but I am <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell ſatisfied, and whether they will hear, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orbear, I ſhall? be clear in the day of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord; and although his weakneſs was very <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat, and even to the Eye of outward rea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on as a ſpent Man, yet he was helped to his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nees, and was never heard to be more power<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul in prayer, which was for all from the King
+<pb n="9" facs="tcp:33567:7"/>upon his Throne, even to the beggar upon the dunghill, to the Admiration and Aſtoniſhment of the Beholders; and after that few words proceeded from him, but weakned very faſt, and the next day being 25th of the ſixth Month 1687. he finiſhed, and hath left a good Sa<g ref="char:EOLhyphen"/>vour behind him, and the Righteous ſurely ſhall be had in everlaſting remembrance, al<g ref="char:EOLhyphen"/>although the Memory of the wicked ſhall rott.</p>
+         </div>
+         <div type="testimony">
+            <head>
+               <hi>Elizabeth Leaper,</hi> Her Teſtimony concern<g ref="char:EOLhyphen"/>ing <hi>Benjamin Padley,</hi> who dyed the <hi>25th</hi> of the 6th Month, <hi>1687.</hi>
+            </head>
+            <p>MY Teſtimony Concerning this my dear Friend <hi>B. P.</hi> is as followeth, that he was a Man whom the Lord had endued with true Wiſdom, as alſo a ſpirit of true diſcern<g ref="char:EOLhyphen"/>ing, and therein did he in his day act for the Lord, and for his Truth and People, and freely gave himſelf up with his whole ſub<g ref="char:EOLhyphen"/>ſtance to ſpend, and be ſpent. Oh the re<g ref="char:EOLhyphen"/>membrance of this my Friend, is very preci<g ref="char:EOLhyphen"/>ous unto me, and I am made many times to bleſs the Lord, and to praiſe the name of <hi>Ja<g ref="char:EOLhyphen"/>cobs</hi> God, in that he hath made me very ſen<g ref="char:EOLhyphen"/>ſible, he had fitted and prepared him, and made him a fit veſſel for his Maſters uſe, who called him into his vineyard; and I am made to ſay, ſurely he was a faithful Labourer
+<pb n="10" facs="tcp:33567:8"/>therein, therefore doth my Soul believe, he hath received his reward even a Crown of Glory, which can never be taken from him, yet I cannot but many times even mourn be<g ref="char:EOLhyphen"/>cauſe of the want I with many more, feels of him, whom the Lord raiſed up, to be as an inſtrument in his hand many a time to ſpeak a word in due ſeaſon unto me, when under great exerciſes, and beſetments many ways; and not only ſo, but he could read my con<g ref="char:EOLhyphen"/>dition, and was made willing to bare a part of my burthen; yet my ſorrow is not as thoſe who ſorrow without hope, being fully ſatisfied, he had kept the ſaith, finiſhed his courſe, and laid down his head in peace with the Lord, where all ſighing, and tears of ſor<g ref="char:EOLhyphen"/>row comes to be wiped away; ſo that although our loſs, and the want of him be great, yet ſurely its his gain, and in this ſhall my ſoul, and ſpirit be comforted. I well remember when the Lord was pleaſed to raiſe a Travel in my ſoul for <hi>Sions</hi> proſperity, and laid a con<g ref="char:EOLhyphen"/>ſtraint on me, to caſt in my mite into his Treaſury amongſt my Brethren and Siſters, at that very time was he made inſtrumental, to the helping me forward, and after ſome<g ref="char:EOLhyphen"/>time, it was laid on me; with my dear Siſter and Companion <hi>Mary Froſt,</hi> to viſit Friends in <hi>Cumberland,</hi> and laying it before him, being under a True Sence of our own weakneſs, youth and tenderneſs, Oh! How he encou<g ref="char:EOLhyphen"/>raged us, ſaying, Travel on in your innocen<g ref="char:EOLhyphen"/>cy,
+<pb n="11" facs="tcp:33567:8"/>and in a ſence of your own weakneſs without the Lord, and I do believe he will be with you, and make your journey proſpe<g ref="char:EOLhyphen"/>rous; which time was the laſt time we ſee his face, his delight was to take the weaklings by the hand, and to encourage the good in all wherever it appeared, for his care over the Flock of Chriſt was great; and I have heard him often ſay, where he ſaw a backwardneſs or ſlackneſs in meeting together to wait upon the Lord; Oh how it wounded, and grieved his ſpirit within him! often ſtirring Friends up to diligence, and faithfulneſs in ſerving God. Oh the Remembrance of his innocen<g ref="char:EOLhyphen"/>cy! together with the Lamb-like Nature, which mine eyes beheld to appear in him is very pleaſant unto me; and the many ſweet and comfortable expreſſions which dropped like Honey from his Lips unto my Soul, when under great diſtreſs, the Conſideration of it breaks my Heart, and Melts my Spirit into Tenderneſs before the Lord! Oh the ſweet Councel my Soul received from him, when in a mournful ſtate, it was even as marrow to my bones, and as ſtrength unto my ſinews; ſo that I have been made to bleſs the Lord, that ever it was my Lot to ſee his Face, and although it was not ordered ſo to be for me, to ſee him in the time of his weakneſs, being many Miles diſtant, as alſo under weakneſs of body, yet at the firſt hearing of his ſick<g ref="char:EOLhyphen"/>neſs, I was made ſenſible he might be taken
+<pb n="12" facs="tcp:33567:9"/>away, which at the firſt came very nigh me, but after ſometime I was made to ſay, Lord thou has now fitted him for thy Kingdom, therefore, <hi>Bleſſed are the dead which die in the Lord, for they do Reſt from their Labour, and their works do follow them;</hi> and ſurely thou art taking the Righteous away from the evil to come, ſo being fully ſatisfied of his well be<g ref="char:EOLhyphen"/>ing, as alſo hearing the report of ſome good friends, who were with him near the time he finiſhed of his comfortable end: I dare not repine, as believing his life, was hid with Chriſt in God, and I do feel this time, as at many other times ſervent breathings in my heart, and a cry run through my Soul, unto the Lord, that he will ſtill raiſe up many more to bare a faithful Teſtimony to his Name and Truth, even as I do believe this my friend did in his young and tender years, and it's my full belief he's now rejoycing amongſt the valiants of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> who hath not only proved Conquerors, but more than Conquerors; ſo what ſhall I ſay more, but even leave all to the diſpoſing of him, whoſe mercys are over all the works of his hands, with True breathings unto the Lord, not only for my own Soul, but for all his whole flock, and Family, that's left behind every where, that we may ſo ſpend the reſi<g ref="char:EOLhyphen"/>due of our time, even as I do believe this my Friend of whom I am ſpeaking did, that ſo the reward of the Righteous we may all receive, when time on this ſide the grave
+<pb n="13" facs="tcp:33567:9"/>ſhall be no more. So unto him who hath been our preſervation unto this day, and is able to make up all our wants, and raiſe up un<g ref="char:EOLhyphen"/>to himſelf many faithful, and living witneſ<g ref="char:EOLhyphen"/>ſes, doth my Soul return Glory and Ho<g ref="char:EOLhyphen"/>nour with humble, and holy thankſgivings, having cleared my ſelf, and eaſed my ſpirit, and ſo remains a Traveller for <hi>Sions</hi> proſ<g ref="char:EOLhyphen"/>perity, and a well wiſher to all.</p>
+            <closer>
+               <signed>Elizabeth Leaper.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <p>DEar <hi>Benjamin Padley</hi> was one of the Sons of <hi>William</hi> and <hi>Elizabeth Padley</hi> of <hi>Northcave,</hi> in the <hi>Eaſtriding</hi> of <hi>Yorkſhire,</hi> who in former days (with many others, in whom true deſires towards God were begot<g ref="char:EOLhyphen"/>ten) was travelling and ſeeking the Kingdom in Forms and Obſervations, zealouſly follow<g ref="char:EOLhyphen"/>ing them that cryed, Lo here, and lo there, in whom the true Birth being not ſatisfied with any empty husk, when it pleaſed the Lord in his great Mercy to cauſe his day to dawn, and to viſit a Remnant that ſate mourn<g ref="char:EOLhyphen"/>ing in darkneſs with the Manifeſtation of his everlaſting Light, and to ſend forth faith<g ref="char:EOLhyphen"/>ful Witneſſes and Meſſengers of the Goſpel of Peace and Reconciliation in Chriſt Jeſus, the Light of the World, and the only way to the Father. Then I ſay the ſaid <hi>William</hi> and <hi>Elizabeth</hi> his Wife, were the firſt (in theſe parts, that received the ſaid Meſſengers
+<pb n="14" facs="tcp:33567:10"/>and their Teſtimony, and became faithful Fol<g ref="char:EOLhyphen"/>lowers of him, whom the Father hath ſent to gather in his ſcattered flock, to wait for his teaching, and to worſhip him in Spirit and Truth, and through much Tribulation, in Patience they endured to the end, and did not deny him before Men for any Suffering, as, Impriſonment, ſpoyling of Goods, <hi>&amp;c.</hi> with the latter whereof, more eſpecially the Widow, and <hi>Samuel</hi> their eldeſt Son, were tryed by Means of <hi>Thomas Forge</hi> a prophane Prieſt, who was much retained in <hi>Williams</hi> days, but after his death break forth in great Rage, and Cruelty againſt the Widow and Fatherleſs, but moſt eſpecially after <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> death, againſt the ſaid <hi>Samuel,</hi> who, by means of the ſaid Prieſt, and his adherents, ſuffered twice 20 <hi>l.</hi> fine for Friends meeting in his houſe to worſhip God, which (with o<g ref="char:EOLhyphen"/>ther ſufferings) when he had endured by wicked men for his love to God and his Truth, and People, he was taken away in peace out of the World, and his next bro<g ref="char:EOLhyphen"/>ther <hi>William</hi> ſtood up in his place in the ſame Teſtimony, who met with the like uſage from the ſame wicked prieſt, who ſhut him up in Priſon, where he remained till the death of his ſaid Adverſary, and not long after he being taken out of the World alſo, this dear <hi>Benjamin</hi> came in to the place, where his Parents had finiſhed their courſe. And in deep Humility, and Zeal towards God, and
+<pb n="15" facs="tcp:33567:10"/>ſervent love to him, and to all that walked in the Truth, he did continue a conſiderable time before his mouth was opened to bare a Teſtimony of the everlaſting Truth of God, in the Aſſemblies of his People, and after he was raiſed in the Power of Truth to bare a Teſtimony of it. I do verily believe he did not go before the motion of Life, nor ſtretch beyond it, nor ſpeak of what he lived not in, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>either did he aſpire into high Notions, nor ſeek to illuſtrate his Teſtimony with high words and expreſſions, but ſound, plain, and weighty his declaration was, in the demonſtra<g ref="char:EOLhyphen"/>tion of the ſpirit &amp; power of <hi>God,</hi> which reach<g ref="char:EOLhyphen"/>ed the ſeed; and when he received the abound<g ref="char:EOLhyphen"/>ings of the heavenly gift, that in the over<g ref="char:EOLhyphen"/>flowings thereof he could Miniſter, and of<g ref="char:EOLhyphen"/>fer the living Sacrifice on the Spiritual Altar, and ſind acceptance; yet he grew not rich and full, nor wiſe in his own conceit, but was kept low and humble, in a deep ſence of the dayly need, ſtill to wait on God, for the re<g ref="char:EOLhyphen"/>newings of his mercys, and the freſh open<g ref="char:EOLhyphen"/>ings of the ſprings of life, and love from him to help forward in the Spiritual Travel, and to perſevere to the end: and hereunto he did much exhort, and ſtir up friends where he came, and to conſtancy in meetings, and to watchful diligence therein, that all might come dayly to receive, and truly to enjoy that, wherein the True bleſſedneſs is. He ſought not worldly riches (tho he was a man
+<pb n="16" facs="tcp:33567:11"/>not ſlothful in buſineſs, but in duſtrious); yet above all, ſeeking the Kingdom of GOD, and the Righteouſneſs thereof, and the Lord gave him his hearts deſire, and withheld not from him, what his Soul Travelled for, for he helped him on his way to the end, and Mi<g ref="char:EOLhyphen"/>niſtred living Conſolation to his Soul, when all viſible things ceaſed to be any more to him. And now his courſe is finiſhed, and his work is done, and his reward is everlaſting, where none can add thereto, nor take there<g ref="char:EOLhyphen"/>from; and being ſenſible of this, I can True<g ref="char:EOLhyphen"/>ly Teſtify that I do not write theſe things in any vain Oſtentation, to ſet up the N<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> of a Creature, but for the ſakes of thoſe that yet remain; That all may be ſtirred up (whom the Lord hath viſited with the like mercy) in the day of their viſitation, to give all dili<g ref="char:EOLhyphen"/>gence to make their Calling and Election ſure, ſeeing none of us knows at what time our end may be; but that which is moſt weigh<g ref="char:EOLhyphen"/>ty upon my Spirit, whereby I have been drawn to bring in this Teſtimony, is to pro<g ref="char:EOLhyphen"/>voke, and ſtir up all the Children of the Lords People, every where to be True followers of their parents in the Lords way in every thing that is good. O the joy, and comfort to the Souls of all that Love the Lord, to behold the Children of Faithful parents that Truely loved, and feared the Lord, now walking in the ſame way, and ſtriving for the ſame im<g ref="char:EOLhyphen"/>mortal Crown! and Oh the grief, and ſor<g ref="char:EOLhyphen"/>row
+<pb n="17" facs="tcp:33567:11"/>of heart to be Children of Good parents looſe and prophane! Or to turn aſide from the way of the Lord, wherein they have been inſtructed! Oh great will be the Condemna<g ref="char:EOLhyphen"/>tion of all ſuch, if they do not ſpeedily re<g ref="char:EOLhyphen"/>turn: and therefore my earneſt deſire, and Travel is, that my (Children) and all the Children of the Lords faithful ſervants, and people great and ſmall may be hereby Ad<g ref="char:EOLhyphen"/>moniſhed, and put in Remembrance, by the good Example of this young Man, and his Brethren, whoſe Memorial is bleſſed, who Truely followed their good parents, in faith<g ref="char:EOLhyphen"/>fulneſs to God; in doing and ſuffering what the Lord required of them; and the Eternal God of power, who helped their parents through all he call'd them to, did not fail theſe young Men their Children, but was their helper to the end, and I believe is, and ever will be a ſure Rock to all that chuſe, and abide in his way from Generation to Generation: And I dearly beſeech all young people, Children of the Lords ſervants, not to count it enough to get, and Comprehend into Notion, what ye have heard from your parents or others, and ſo to follow them only in the outward form, and profeſſion of Truth. Oh but wait in the Light to feel the Spirit and power of God, to work in you to judge, work out, and Crucify the worlds Nature in you, and to renew you in your hearts and ſpirits, accor<g ref="char:EOLhyphen"/>ding to his Holy and Heavenly will, that ſo
+<pb n="18" facs="tcp:33567:12"/>of him who certainly knows the hearts of all, ye may be owned and approved; which that all the called of the Lord, both Old and Young, may truly attain unto, is the earneſt deſire and ſpiritual travel of your Brother and Companion, in that which abides for ever,</p>
+            <closer>
+               <signed>Sebaſtian Ellythorpe.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <p>THis Teſtimony remaineth in my heart, and hath been as a Concern upon my Spirit, many days concerning the Life and Death of my dear Friend <hi>Benjamin Padley;</hi> for he was one that the Lord did bleſs and preſerve in great weakneſs, when he was in his tenderneſs, and in his young years, and ſeeking after the Knowledge of the bleſſed Truth, as it is in <hi>Jeſus,</hi> and when he was weeping on his way, and ſeeking the Lord, inquiring the way to <hi>Sion,</hi> having his face thitherward, who travelled in pain, as a Wo<g ref="char:EOLhyphen"/>man to be delivered, and had a longing de<g ref="char:EOLhyphen"/>ſire after the Lord God, who could not be ſa<g ref="char:EOLhyphen"/>tisfied until he had met with him whom his ſoul loved, and nothing would comfort him ſhort of the Enjoyment of the preſence of the Lord; neither did he regard the Reproaches, but patiently endured the Croſs, and deſpiſed the Shame. And all for that Joy that was ſet before him, which the Lord had given him a ſence and a ſeeling of in his young days, and in the Lords due and appointed time he did
+<pb n="19" facs="tcp:33567:12"/>deliver him, from under all that which was as a Burthen unto him, as that <hi>Philiſtian</hi> Na<g ref="char:EOLhyphen"/>ture that was an Enemy unto <hi>Iſrael,</hi> that would be caſting ſtones into their Wells, and would be damming up the precious ſprings of divine Life; theſe things he knew and met with in his way, but ſtill his dependency was upon Chriſt the Beloved of his Soul, who brought him out of the Wilderneſs, and over the Red Sea, and over <hi>Jordan,</hi> and through the Mini<g ref="char:EOLhyphen"/>ſtration of Death and Condemnation, which all muſt paſs through before they come into Life and Peace with God, and to be poſſeſſed of that Inheritance of Life and Salvation, Peace and Reſt in Chriſt, that <hi>Canaan</hi> was a Figure of promiſed to <hi>Abraham</hi> and his Seed for ever, of whoſe Off-ſpring and Race in thoſe days are all the Faithful, who is wil<g ref="char:EOLhyphen"/>ling to leave their Fathers Houſe, and all their Kindred, and all that is near and dear unto them, among whom was this faithful Man, who loved not his Life unto Death, that he might ſave his Life unto Eternity; this was before him, and this was in <hi>Moſes</hi>'s eye a<g ref="char:EOLhyphen"/>bove <hi>Aegypts</hi> Glory; this was in <hi>Abrahams</hi> eye above his Native Country, and above his Fathers Houſe, becauſe they all had an eye un<g ref="char:EOLhyphen"/>to the Recompence of Reward, among whom was this faithful Man, after that he had turn<g ref="char:EOLhyphen"/>ed his back upon all the World and <hi>Aegypts</hi> Glory, he grew valiant for the Truth, and bore a living Teſtimony againſt the Abomi<g ref="char:EOLhyphen"/>nations
+<pb n="20" facs="tcp:33567:13"/>and all the Pride and Superſtition and Idolatry thereof, the ſence whereof ſtill remaineth, and doth live with me, though he be removed from us, ſtill the remembrance of him is Chronocled and Engraven in our hearts, that it cannot eaſily be forgotten, nor razed out of our Remembrance; the many ſweet and living Teſtimonies that were gi<g ref="char:EOLhyphen"/>ven forth, and that ran through him in the precious Extendings of Life, and ſweet Vi<g ref="char:EOLhyphen"/>ſitations, wherewithal the Lord was pleaſed to viſit him, and to make him a Partaker of amongſt the People of God, of which I was an Eye and Ear-Witneſs, and a parta<g ref="char:EOLhyphen"/>ker with him, both in the time of the Mi<g ref="char:EOLhyphen"/>niſtration of Death, and in the time of the Miniſtration of Life and Salvation, and in his Exerciſes both ſpiritual and temporal; but in all he was preſerved in the meek and quiet ſpirit of the Lamb, holding faſt his In<g ref="char:EOLhyphen"/>tegrity in the ancient power of God, and in the word of his patience, who never failed him nor none of his faithful Children, in the day of Tryal, nor hour of Temptation, though they be great, and the troubles of the Righteous many, yet the Lord is able to deliver out of them all, as he hath done this my dear Friend, where all ſighing and ſor<g ref="char:EOLhyphen"/>row doth fly away; and where all tears is wiped away, and all ſorrows and pains com<g ref="char:EOLhyphen"/>eth to an end, and the troubler ceaſes trou<g ref="char:EOLhyphen"/>bling, and the ſcorner ceaſes from ſcorning,
+<pb n="21" facs="tcp:33567:13"/>and the troubler of <hi>Iſrael</hi> doth not appear any more; and this is our Joy and our Com<g ref="char:EOLhyphen"/>fort, that which maketh up our Loſs in part<g ref="char:EOLhyphen"/>ing with ſo dear a Friend as he was in his day, which was but ſhort, yet glorious; for he was taken away in the flower of his age, and in the ſtrength of his youth, I mean every way, both bodily and ſpiritually; for he had overcome the wicked one, and the Word of God did abide in him, and his preſence did fill him, until his Cup did over<g ref="char:EOLhyphen"/>flow many times, to the watering of the He<g ref="char:EOLhyphen"/>ritage of God; and now this is my deſire, That all to whom this may come, may be Followers of Chriſt in his footſteps, and ac<g ref="char:EOLhyphen"/>cording to his and many others that was ho<g ref="char:EOLhyphen"/>ly Examples in their days of humility and ſelf-denying, and patience, and long ſuffe<g ref="char:EOLhyphen"/>ring, and meekneſs, and Brotherly kindneſs and charity, ſuffering all things, and bearing all things, for the Name of <hi>Jeſus,</hi> and for the Word of God, as he was given up to do, and now is entred into Glory, where he <hi>rests from his Labours, and his Works do fol<g ref="char:EOLhyphen"/>low him, and his Reward is with him;</hi> for thus ſaith the Spirit, <hi>Bleſſed is the dead which dye in the Lord, for they reſt from their Labours, and their Works do follow them;</hi> and the Name of the Righteous ſhall be had in everlaſting remembrance, and ſhall be bleſſed among the Righteous, but the Name of the Wicked ſhall rot.</p>
+            <p>
+               <pb n="22" facs="tcp:33567:14"/>Theſe few Lines opened in my heart, con<g ref="char:EOLhyphen"/>cerning my dear Friend, whoſe Life was bleſ<g ref="char:EOLhyphen"/>ſed, and latter End Peace. Now it is time to conclude, and recommend this with the reſt of Friends Teſtimonies to the ſerious Readers, to whom this may come, to the help and encouragement of them that are in Afflictions, that they they may hold out to the end and be ſaved.</p>
+            <closer>
+               <signed>Iohn Richardſon.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Copy of a <hi>Letter</hi> ſent to his Wife.</head>
+            <opener>
+               <salute>Dear Love,</salute>
+            </opener>
+            <p>THE Salutation of my endeared Love reacheth unto thee with my Children, and I cannot but deſire of the Lord, That he would preſerve you, and keep you in his fear from day to day, and give thee Wiſ<g ref="char:EOLhyphen"/>dom and Underſtanding to order thy Fami<g ref="char:EOLhyphen"/>ly in his fear and dread, and to be cheerful, and truſt in the Lord, and he will not fail thee, I am ſatisfied; for bleſſed be the Name of the God of Heaven, his Preſence and Po<g ref="char:EOLhyphen"/>wer is ſtill with us, and his Arm doth ſtill ſurround us, that we are carryed on with cheerfulneſs, and freely given up to follow the Lord whitherſoever he is pleaſed to lead us. So, my Dear, I dearly deſire thee, be not troubled, nor any way caſt down in thy mind becauſe of my Abſence; though things
+<pb n="23" facs="tcp:33567:14"/>may go contrary to thy deſire and expecta<g ref="char:EOLhyphen"/>tion, yet, my Dear, be incouraged, and give up to the Lord, and fear him, and doubt not but all things will work together for thy good. So unto the Lord do I commit thee, with my Children and Family, with my own Soul, who I deſire to preſerve and keep us to his own Praiſe and Glory, who alone is worthy over all for ever. So my Dear, I deſire thee to remember my dear Love to all our Friends in general, who is very dear unto me, when I remember them, eſpecially thoſe that are faithful. So my dear Love, with my dear Companion <hi>John Richardſon,</hi> ſalutes you all, and bid you all farewel. We are now at <hi>Rousby,</hi> and doth intend for <hi>Whitby,</hi> and ſo toward <hi>Burlington,</hi> if the Lord permit. So with my dear Love to thee, I remain thy dear and faithful affectionate Friend and Husband,</p>
+            <closer>
+               <signed>Benjamin Padley,</signed>
+               <dateline>From <hi>Rousby</hi> 
+                  <date>16th. of 8th. Month, 1686.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Another Copy of a <hi>Letter</hi> ſent to his Wife.</head>
+            <opener>
+               <salute>My Dear,</salute>
+            </opener>
+            <p>THe Salutation of my endeared Love at this time, with many other times, doth reach unto thee, as alſo to my Dear Children; and you are often in my Remembrance; and my Soul is many times bowed down, and my
+<pb n="24" facs="tcp:33567:15"/>Spirit poured forth in Supplication before, and in the preſence of my God and yours; that you may be preſerved in holy fear and dread, and that he may give thee Wiſdom, and underſtanding, and ſtrength, and ability, to order thy Children, and to nurture them in the Fear of the Lord, and keep them in Subjection as much as in thee Lyes; and ſtand in the Dominion of Truth, over them and thy ſervants; and wait for Wiſdom, and Councel from the Lord to guide, and order thee in all things, that thee art concerned in. And my dear, be not too careful in driving on thy buſineſs too eagerly, and keep thy hands off as much as thou poſſibly canſt, thou know<g ref="char:EOLhyphen"/>ing thy own unfitneſs, and the weakneſs of thy Conſtitution; and although things may ſometimes, not go ſo well on as thou wouldſt have them, yet I would have thee be care<g ref="char:EOLhyphen"/>ful, that thou letteſt not thy mind out to fret, and grieve at them, but ſtand in the Counſel of God, that he may give thee directions to order all things aright, and to keep out of ex<g ref="char:EOLhyphen"/>treams on every hand: But let thy Modera<g ref="char:EOLhyphen"/>tion appear in all things; and let a mode<g ref="char:EOLhyphen"/>rate care be had in all things, that nothing be willfully loſt or waſted. And ſo unto the Lord, who is only able to preſerve, and proſper thee in all things, do I commit thee with the reſt of my family; and my hope, and confidence, and whole belief is ſtedfaſt in him, as ever that as we do keep faithful
+<pb n="25" facs="tcp:33567:15"/>to the Lord, and his Truth, and deſires to be found in that, and to abide in that, which will bring Honour to his Name: The Lord will multiply his bleſſings upon us, and we ſhall be as Monuments of his Mercy, and his preſence will be with us, and his provident hand will be ſeen and felt, in the ordering of us in all things to his glory, and to our mutu<g ref="char:EOLhyphen"/>al Joy and Comfort: And bleſſed be his great and Mighty NAME, that hath not been wanting to me ſince I was called from thee; but his preſence I have, and do enjoy from day to day, unto this very day; and his coun<g ref="char:EOLhyphen"/>ſel he hath not hidden from me, in thoſe things which he hath concerned me in, but his pro<g ref="char:EOLhyphen"/>vident hand hath greatly appeared to me, in ordering of me in my Journey, and anſwer<g ref="char:EOLhyphen"/>ing my deſire greatly beyond my Expecta<g ref="char:EOLhyphen"/>tion; for I have met with a Companion four or five days ago, and I hope we are like to continue together a pretty while longer, our minds being both inclined one way, before we did know any thing one of another; and I hope, and am ſatisfied, that it will be good for me, for the Lord is felt, and witneſſed to be with us in our Spiritual Exerciſe, to the ordering of us in his fear and wiſdom; and many ſweet and precious Opportunities has be given us, to the uniting us to him<g ref="char:EOLhyphen"/>ſelf, and one unto another, and hath drawn us into a Spiritual Acquaintance and Socie<g ref="char:EOLhyphen"/>ty one with another, unto whom my Soul
+<pb n="26" facs="tcp:33567:16"/>gives Glory and Honour, who is alone worthy for ever and ever. I deſire thee remember my dear Love to all our Friends in general, and let me have two or three Lines from thee, by ſome of our Friends that goes to the year<g ref="char:EOLhyphen"/>ly Meeting at <hi>York,</hi> to know how it is with thee; for I hope I may get thither, and ſhall be glad to hear that it is well with thee; ſo deſiring this may find thee with thy Chil<g ref="char:EOLhyphen"/>dren in good health, as through the Lords Mercy I am at preſent; and in the Senſe of the Lords Goodneſs toward us, and his Care over us, I do ſtill remain, and in that dear and unfeigned Love, which length of Miles, or diſtance of place cannot ſeparate, do I dearly ſalute thee, and bid thee farewel, and doth remain in the unchangeable Truth, thy truly loving Husband,</p>
+            <closer>
+               <signed>Benjamin Padley.</signed>
+               <dateline>From <hi>Hanſworth Woodhouſe</hi> near <hi>Sheffield</hi> 
+                  <date>28th. of 3d. Month, 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Copy of a <hi>Letter</hi> ſent to a Brother of his in <hi>America.</hi>
+            </head>
+            <opener>
+               <salute>Dear Brother,</salute>
+            </opener>
+            <p>I Dearly ſalute thee in the Fear of the Lord, in which I deſire we may both be preſerv<g ref="char:EOLhyphen"/>ed all the days of our appointed time. After my dear love preſented unto thee, hoping theſe will find thee in good health, as I am at preſent, bleſſed be the Lord; and therefore
+<pb n="27" facs="tcp:33567:16"/>I deſire thee to ſink down into Gods pure fear, and let his pure dread, and Holy Awe be con<g ref="char:EOLhyphen"/>tinually upon thy heart, and that will guide thee in the path of Righteouſneſs, and order thee aright in all things; it will be as a Cloud by day as and of a Pillar fire by night to lead thee: Thou knows in the days of our Child<g ref="char:EOLhyphen"/>hood, when we were left without Father and Mother, the <hi>Lord</hi> took care of us, and provided well for us, that we have not ſuf<g ref="char:EOLhyphen"/>fered want nor hardſhips, as many Children have done; and when thou went firſt over into that Country, in which thou now art, thou waſt then in a Sence of thy own weak<g ref="char:EOLhyphen"/>neſs and littleneſs, and waſt as it were re<g ref="char:EOLhyphen"/>conciled unto the Will of God; and when thou waſt in this State, then thou waſt ſafe, and the <hi>Lord</hi> proſpered thee in all thy un<g ref="char:EOLhyphen"/>dertakings, and many People became thy Friends, and thou didſt get the love of ma<g ref="char:EOLhyphen"/>ny; but now I fear thou haſt loſt the feel<g ref="char:EOLhyphen"/>ing of that which was then thy preſervation, and now thou art lifted up in thy proſpe<g ref="char:EOLhyphen"/>rity, and ſo forgets the <hi>Lord</hi> that made thee, and hath given thee Breath and Be<g ref="char:EOLhyphen"/>ing; and ſo in Bowels of love to thy Soul, do I write this to thee, and not for any ill will I bear to thee; the <hi>Lord</hi> knows my Heart; but that thou might come to the Conſideration of theſe things, and for time to come, let them be amended, or elſe aſſu<g ref="char:EOLhyphen"/>redly the hand of the Juſt GOD will be
+<pb n="28" facs="tcp:33567:17"/>for ever: ſo I dare not but warn thee in the Fear of the <hi>Lord;</hi> and whether thou wilt hear, or forbear, I ſhall be clear concerning thee; for I will aſſure thee I have beſought the <hi>Lord</hi> with Tears many times concerning thee, and this I am perſwaded through Gods mercy, that his love is ſtill towards thee, and he ſtill waits to be gracious unto thee, and to ſhew mercy unto thee, if thou wilt return unto him: therefore I deſire thee in bowels of love to thy Soul, do thou hearken to his voice, and return to him with thy whole Heart and Soul, and in Gods Fear ſit down under his righte<g ref="char:EOLhyphen"/>ous judgments, and wait in patience until he is pleaſed to appear, and reveal himſelf unto thee; and he will throw down the mountains of iniquity, and cauſe the Hills of Tranſ<g ref="char:EOLhyphen"/>greſſion to fall before him; he will make the Crooked ways ſtraight, and the rough places plane; he will throw down the partition, which the enemy hath built betwixt him and thy ſoul; and he will make room for himſelf to dwell, and make his abode with thee: and ſo I deſire that thou and I, and all that makes mention of the Name of the <hi>Lord,</hi> may de<g ref="char:EOLhyphen"/>part from evil: for thus ſaith the <hi>Lord,</hi> Let all that makes mention of my Name depart from evil. And therefore it is a weighty thing, and we have great need to eye the <hi>Lord</hi> in all things, and ſtand continually in his Councel, that he may be our leader, and our guide to the end of our days; and therefore let us
+<pb n="29" facs="tcp:33567:17"/>with one accord Humble our Souls before the GOD of HEAVEN, and ſit in the duſt, and with rended hearts cauſe our Crys to pierce through the Heavens, and aſ<g ref="char:EOLhyphen"/>cend up to him that ſits upon the Throne of Glory, and he will hear our Crys, and an<g ref="char:EOLhyphen"/>ſwer the deſires of our Souls, if in the fer<g ref="char:EOLhyphen"/>vency of our hearts we pray unto him: and ſo I deſire that we may be preſerved in the fear of the Lord; and therefore in reſigna<g ref="char:EOLhyphen"/>tion to the Will of God, do I commit my Soul with thine, and the Souls of all our Brethren and Siſters, and all our dear and near Relations every where; and the Lord preſerve us, and the Lord keep us and pro<g ref="char:EOLhyphen"/>tect us, and guide us continually in his pure Fear and holy Awe, that that may be the ſtay of all our minds unto the end of our appointed time, that the God of Heaven, may be our Portion, and the Lot of our In<g ref="char:EOLhyphen"/>heritance, that in the end of our days we may lay down our heads in peace, where none can make us afraid, and where our Bread for ever may be ſure, and our Wa<g ref="char:EOLhyphen"/>ter never failing, that we may Exalt the Name of the Lord in the Land of the Liv<g ref="char:EOLhyphen"/>ing, and return living Praiſes, and everlaſting Thankſgiving unto his Glorious Name: for worthy is he over all to be praiſed and ho<g ref="char:EOLhyphen"/>noured, everlaſtingly above all, for ever and for evermore. So no more, but my dear Love to thee, and Good Will toward all Men; I reſt
+<pb n="30" facs="tcp:33567:18"/>and remain thy dear Loving Brother, and eternal Lover of thy Souls Welfare,</p>
+            <closer>
+               <signed>Benjamin Padley.</signed>
+               <dateline>
+                  <hi>North Frodingham</hi> in <hi>Houllderneſs</hi> in <hi>Yorkshire,</hi> 
+                  <date>20th. of 3d. <hi>Month,</hi> 1678.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Another Copy of a <hi>Letter</hi> ſent to a Bro<g ref="char:EOLhyphen"/>ther of his in <hi>America.</hi>
+            </head>
+            <opener>
+               <salute>Endeared Brother,</salute>
+            </opener>
+            <p>OH feel the Bowels of Enlarged Love, which the Lord God Almighty, hath opened in me towards thee; and hath laid it weightily upon me to viſit thee with a tender viſitation of love; and alſo to lay o<g ref="char:EOLhyphen"/>pen ſome of the ſnares and ſtratagems of the Enemy, whereby he kept me in bondage many Months, and ſome Years: But the Lord in his tender mercy, and infinite compaſſion, hath redeemed me out of them all; and hath ſet me free, to worſhip him in ſpirit, and in Truth; unto whom my ſoul doth at this time, and for ever deſire to return everlaſting glory, and endleſs praiſes and thankſgiving, who a<g ref="char:EOLhyphen"/>lone over all is worthy, for ever and ever: For after he was pleaſed in his endleſs mercy to bring me into the Wilderneſs, into a place of want, into a bewildred ſtate, into a want<g ref="char:EOLhyphen"/>full ſtate, and into a ſenſe of the Neceſſity I had of ſeeking after a Saviour; the Enemy,
+<pb n="31" facs="tcp:33567:18"/>through hearkening to his deceitful voice; kept me long wandring here before I could get thorow, or arrive within the River-banks of <hi>Canaan;</hi> yet can I truly ſay, the <hi>Lord</hi> brought me not hither to ſtarve me, but to try me, for he never left me nor forſook me; but he dayly purſued me with mercy, and followed me with his loving kindneſs, he fed me with the Manna from Heaven, and cauſed me to drink of the Rock that followed me, which Rock was a ſhelter unto me, and that Rock was Chriſt, which dayly begot a longing de<g ref="char:EOLhyphen"/>ſire in me of being redeemed out of that be<g ref="char:EOLhyphen"/>wildred ſtate, and of coming to the full en<g ref="char:EOLhyphen"/>joyment of that living refreſhment, which my Soul at times and ſeaſons was made partaker of; for truly I have many times felt ſuch liv<g ref="char:EOLhyphen"/>ing refreſhments from the hand of the <hi>Lord,</hi> both when I have been amongſt the Aſſem<g ref="char:EOLhyphen"/>blies of Gods People, and alſo when alone in ſecret Places, when my heart hath been kept low in his fear, and when in the ſincerity of my Soul I have waited upon him, in a true Reſignation to his Will, that my Soul as it were, hath been overjoyed; and then whilſt I have been thus pleaſing my ſelf with thoſe Joys, and take a Rejoycing in thoſe Refreſh<g ref="char:EOLhyphen"/>ments, then hath the Enemy com'd in, with thoſe Perſwaſions, and ſaid, Thou art now come to the full Enjoyment of thy deſire; thou art now come to arrive within the Bleſ<g ref="char:EOLhyphen"/>ſed Land, for which thou ſo earneſtly tra<g ref="char:EOLhyphen"/>velled
+<pb n="32" facs="tcp:33567:19"/>for; and thou may now take up a reſt here, for thou need never fear of being de<g ref="char:EOLhyphen"/>prived of theſe Enjoyments, or of being dri<g ref="char:EOLhyphen"/>ven back out of the Land wherein thou art arrived; yea, theſe and many more ſtum<g ref="char:EOLhyphen"/>bling Blocks, hath the Enemy caſt before me, whilſt I was in this Bleſſed Exerciſe, and through lending an Ear and hearkening to his deceitful Voice, in taking up a falſe Reſt, which the Lord hath never ordained for me; I have been led backward into the Wilder<g ref="char:EOLhyphen"/>neſs, and the Veil hath again been brought over me, and the thick Clouds of Darkneſs hath covered me, and the Mercies of the Lord hath been withdrawn from me, and he hath as it were for a Seaſon, hid his Face from me; ſo that I have ſometimes been rea<g ref="char:EOLhyphen"/>dy to ſay, Surely this is <hi>Aegypts</hi> Darkneſs, and to take up a Lamentation, for want of the enjoyment of his preſence, which I did enjoy whilſt I was obedient to him, and in the deep ſence of theſe my Wants, and of the neceſſity of the ſaving Power, and Sal<g ref="char:EOLhyphen"/>vation of the Lord God Almighty, hath my Soul been bowed down, under great Weights and Burthens, beſeeching him, that he would again appear, and rend away the Veils, and take off all Coverings, and let me feel of his wonted Goodneſs, and of the freſh In<g ref="char:EOLhyphen"/>comes of his Love and Mercy, which former<g ref="char:EOLhyphen"/>ly I had been partaker of; for in the ſence of theſe Wants, hath my Soul, with <hi>David,</hi>
+               <pb n="33" facs="tcp:33567:19"/>been ready to ſay, <hi>Lord haſt thou forgotten to be gracious, wilt thou be favourable no more?</hi> O then did he Anſwer me, and ſay, <hi>My hand is not ſhortned at all that I cannot ſave, nei<g ref="char:EOLhyphen"/>ther is my ear heavy that it cannot hear, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy Sins hath ſeparated betwixt thee and me;</hi> through hearkening and lending an ear to the Enemy, in taking up a polluted Reſt; there<g ref="char:EOLhyphen"/>fore turn from the evil of thy ways, and I will ſtill have Compaſſion on thee, and ap<g ref="char:EOLhyphen"/>pear to ſave in all Troubles, and carry thee thorow all thy Exerciſes and Tryals, which I will ſuffer to come upon thee, and ſet thee as a Pillar in my Houſe that ſhall never be removed; O then his Words were ſtrength to my ſoul, and more deſired by me than my neceſſary Food; and now can I truly ſay the Lord is become my chiefeſt delight, and the object of mine eye; he is the God of my Salvation, therefore will I truſt in him, and not be afraid; though he was angry with me, his anger is turned away; though in a little wrath he did his face from me, yet with everlaſting loving kindneſs he will have Mercy on me: And now the Lord having brought me out of the Wilderneſs, out of a Place of Want, into a Land of Plenty, and given me to drink of the River of his pleaſure, which is ſet open and freely ten<g ref="char:EOLhyphen"/>dred to all that will come; he hath taught me not to ſit at eaſe, and take up a Reſt as the Enemy would have perſwaded me;
+<pb n="34" facs="tcp:33567:20"/>for though the Enemies be ſubdued that were within the Borders, and that hindred me from arriving within the Bleſſed Land; yet GOD hath ſhewed me there are yet many Enemies within the Land, which if there be not a con<g ref="char:EOLhyphen"/>tinual Watch kept, will come ſuddenly up<g ref="char:EOLhyphen"/>on me, and drive me out: This is the <hi>Phi<g ref="char:EOLhyphen"/>liſtine</hi> Nature, which will dam up the Wells of <hi>Jacob,</hi> which will ſtop the Paſſage of the Fountain of Life from running into my Soul; there are the Pleaſures of the World, and the Cares of this Life, and all vain Tradi<g ref="char:EOLhyphen"/>tions, and Cuſtoms of Men, which muſt be forſaken; and Sufferings both of Body, and ſpoyling of Goods, Scoffings, and Scornings, Revilings, and evil Entreatings, which they that will live godly in Chriſt Jeſus, muſt en<g ref="char:EOLhyphen"/>dure: And now the Lord having ſet before me Life and Death, I will rather chuſe to ſuffer affliction with the People of God, than to enjoy the Pleaſures of Sin for a Seaſon; for when I lay wallowing in my Blood, and nothing but Wounds and putrifying Sores, and when the <hi>Prieſt</hi> and the <hi>Levite</hi> paſſed by, and regarded me not, nor none could ſpeak a word of Peace to my Soul, O he was the good <hi>Samaritan!</hi> Who took me up, and had Compaſſion on me; he was the skilful Phyſitian, who knew my Infirmity, and pour<g ref="char:EOLhyphen"/>ed forth Balm from <hi>Gilead</hi> upon all my Wounds, and healed me of mine Infirmities; O therefore hath he engaged me to love
+<pb n="35" facs="tcp:33567:20"/>him! and to give up all for him, and to follow him thorow the Loſs of all things; yea, to give up my Life for his ſake, if he ſhould require it at my hand, and it is but all what I owe unto him, it is but the ſacrifice of a reaſonable Service, and all nothing in com<g ref="char:EOLhyphen"/>pariſon of what he hath done for my ſoul, and I deſire with all my Heart and Soul, that I may for ever be kept and preſerved in this holy Reſolution, that I may count nothing too dear to part with for the <hi>Lords</hi> ſake, who is worthy over all to be wor<g ref="char:EOLhyphen"/>ſhipped, ſerved and obeyed, praiſed, glori<g ref="char:EOLhyphen"/>fied, honoured and exalted, of me, and of all that have taſted of his Mercy, and knows how good he is, both now, for ever, and for evermore.</p>
+            <p>And now dear Brother, the <hi>Lord</hi> laid this weightily upon me, to lay open before thee (if happily thou not being fallen into theſe ſnares, might be preſerved out of them, or if fallen into them, that thou might ſee how to be redeemed out of them again); and therefore I entreat thee, as one having Charge of thy ſoul, that thou ſlight not the day of thy Viſitation until it be overpaſt, but while it is called to day, hearken, and turn not away thine Ear from the Counſel of the <hi>Lord,</hi> nor harden not thine heart againſt Inſtructi<g ref="char:EOLhyphen"/>ons, nor caſt not his Reproofs behind thy back, leſt thou provoke the Juſt God to an<g ref="char:EOLhyphen"/>ger, and cauſe him to withdraw his good <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for of a Truth God will
+<pb n="36" facs="tcp:33567:21"/>not be mocked, but he ſaid I will be glori<g ref="char:EOLhyphen"/>fied in all that draw near me; And they that make a profeſſion of him in Words, but in Works deny him, he will glorifie himſelf in deſtroying of them, as he did <hi>Nadab</hi> and <hi>A<g ref="char:EOLhyphen"/>bihu,</hi> who offered a ſtrange Fire unto him; for he hath ſaid, <hi>His Spirit ſhall not always ſtrive with Man, but the Candle of the wick<g ref="char:EOLhyphen"/>ed ſhall be put out:</hi> O who can expreſs the Miſery of that Man! O ſad and deplora<g ref="char:EOLhyphen"/>ble is his Condition! Oh! It even cauſes my heart to relent, and my Spirit to bleed within me, to conſider the miſerable, ſad, and lamentable Eſtate of that Man, or Wo<g ref="char:EOLhyphen"/>man, whom God hath ceaſed ſtriving with, and whoſe Candle is put out; Oh ſurely ut<g ref="char:EOLhyphen"/>ter Darkneſs will be their Portion, for ever Woe and Miſery; bitter and anguiſhing Pangs ſhall take hold of them, as of a Woman in Travail, when they ſhall be caſt into utter Darkneſs, never more to behold the Bright<g ref="char:EOLhyphen"/>neſs of the Glory and Excellency of our God; And therefore, dear Brother, in the ſence of theſe Miſeries, which ſhall aſſured<g ref="char:EOLhyphen"/>ly come upon all that will not Obey the Counſel of the <hi>Lord,</hi> do I entreat thee, for the <hi>Lords</hi> ſake, and for thy poor Souls ſake, be obedient to his Counſel, and give Atten<g ref="char:EOLhyphen"/>tion to his Call, for the Bowels of his Love yearns towards thee; and he ſtill waits to be gracious, Oh therefore embrace his Love! and wait for his Appearance, though he may
+<pb n="37" facs="tcp:33567:21"/>appear as an Enemy, yet it is but to deſtroy ſin; and therefore fly not at his appearance, to hide thy ſelf as <hi>Adam</hi> did, when he had tranſgreſſed his Commandment, but wait for his coming, to deſtroy ſin in thee; for there<g ref="char:EOLhyphen"/>fore muſt he firſt appear before thou can be a ſit Veſſel for him to dwell in, and then thou wilt come to witneſs the ſaying of the Prophet fulfilled, which he propheſied of in the days of old, ſaying, <hi>The Lord is our Judge, the Lord is our Law-giver, the Lord is our King, and he will ſave us;</hi> ſo <hi>(Mark) he is firſt to be known as a Judge, and a Condem<g ref="char:EOLhyphen"/>ner of Sin in the Members,</hi> and to take away that which makes a ſeparation betwixt him and thy ſoul, and then muſt he be known a Law-giver to give Laws, and eſtabliſh Laws, and Commandments in the hearts of his Peo<g ref="char:EOLhyphen"/>ple; and here alſo comes another Scripture to be fulfilled, which God promiſed in the days of old, ſaying, <hi>I will write my Law in their hearts, and put it in their inward parts, and I will be their God, and they ſhall be my Peo<g ref="char:EOLhyphen"/>ple;</hi> and then, as there is an obeying of theſe Laws, and a keeping of theſe Commandments which the <hi>Lord</hi> hath given unto us, and written in our inward parts, then do we wit<g ref="char:EOLhyphen"/>neſs him, to be our King who will ſave us, and bring ſalvation with him: And bleſſed be his Name for ever, who is not awanting this day, unto them that really fears and obey him; for the Fountain of his Mercy
+<pb n="38" facs="tcp:33567:22"/>is open, and the Sluces of the River of his pleaſure is drawn, and the Flood-gates is ſet wide open, and the Call is gone forth to all the World, and the Sound thereof to the ends of the Earth, Come you that will come, come he that is a thirſt, and he that hath no Money, come, buy Wine, and Milk, with<g ref="char:EOLhyphen"/>out Money, and without Price; Oh this is the Love of our God! Oh what manner of Love is this, wherewith he hath loved us, that he ſhould thus freely tender his Mer<g ref="char:EOLhyphen"/>cy unto us who hath not deſerved it at his hands! Oh ſurely it may well engage all who have felt of theſe his Mercies, and drank of this bleſſed Fountain, for ever to love him, and never to let him paſs out of our Remem<g ref="char:EOLhyphen"/>brance; O that it might for ever be as a Seal upon all our Souls, and as a double en<g ref="char:EOLhyphen"/>gagement upon our Spirits, for ever to wait upon him, in the true Poverty of our Spi<g ref="char:EOLhyphen"/>rits, and in the true Nothingneſs of our ſelves before him, to bow at the Foot-ſtool of the Throne of his Grace, and there pour forth our Supplications day and night before him; beſeeching him, that he may never withdraw himſelf from us, but for ever let us feel of theſe his Mercies, and be Partakers of theſe his Bleſſings, that in the Eenjoyment of the ſame, our Souls may be daily obliged, and daily feel freſh occaſion of returning Glory, and everlaſting high Praiſes and Thankſgiv<g ref="char:EOLhyphen"/>ing unto him, who over all is worthy, is wor<g ref="char:EOLhyphen"/>thy for ever.</p>
+            <p>
+               <pb n="39" facs="tcp:33567:22"/>And now my Brother, there is ſtill ſome<g ref="char:EOLhyphen"/>thing livingly ariſeth in my heart, to lay be<g ref="char:EOLhyphen"/>fore thee; that I may be clear as to the diſ<g ref="char:EOLhyphen"/>charging my Conſcience, in Obeying the will of the Lord; in faithfully doing that, which he commanded me, and that I may not do the work of the Lord deceitfully; he alſo having many times brought into my remembrance the charge, which he gave unto his Prophet; when he ſent him to forewarn the Children of <hi>Iſrael,</hi> in the days of old, ſaying, If thou forewarn them of their evil, in ſpeaking the things which I command thee, and they turn not from the evil of their ways, then ſhall they dye in their iniquities, and their blood ſhall be upon their own heads; but if not, they ſhall dye in their wickedneſs, but their blood I require at thy hands. Now theſe are the things, which I have to lay before thee.</p>
+            <p n="1">1ſt. That thou let not thy mind out into the earth, in ſtriving to gather great riches; for ma<g ref="char:EOLhyphen"/>ny times pride doth attend that ſpirit; that as ſoon as people are grown rich and full as to the outward, then do they come to be ex<g ref="char:EOLhyphen"/>alted, and puffed up, and look for Honour, and Eſteem in the world, ſaying in their hearts, I am full, and entire, lacking no<g ref="char:EOLhyphen"/>thing, when they are naked, blind, and miſe<g ref="char:EOLhyphen"/>rable, wanting all things. And therefore it is ſo; he that ſtrives to heap up Treaſures of this World, runs himſelf into a ſnare, and ſhall fall into a pit. Alſo ſaid Chriſt, how hard<g ref="char:EOLhyphen"/>ly
+<pb n="40" facs="tcp:33567:23"/>ſhall they that are rich, enter into the Kingdom of Heaven: <hi>Verily, I ſay unto you, it is eaſier for a Camel, to go thorow the eye of a needle, then for a rich man to enter into the KINGDOM of GOD;</hi> and alſo he ſaith in another place, <hi>Seek ye the Kingdom of Heaven firſt, and then all things needful ſhall be added unto you: And take no thought for to morrow, for to morrow ſhall take thought for the things of it ſelf;</hi> and therefore I de<g ref="char:EOLhyphen"/>ſire thee, let not thy mind out after theſe things, but labour, to lay up Treaſures in Heaven, where the Thief cannot Steal, nor the Moth cannot Eat, nor the Ruſt cauſe to decay; and let the fear of the Lord poſſeſs thy heart, and then thou wilt indeed know that the Lord careth for his Children, and will not ſuffer any who puts their truſt in him, ever to be aſhamed, or to want any good things; for <hi>he fills the Hungry with good, when the rich and the full he ſends empty away.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> That thou let not out an evil ſpi<g ref="char:EOLhyphen"/>rit, to watch over any, with an evil eye to look out at the weakneſs of others, or when thou can ſpy a fault in another, to take an advantage againſt them, or to give thy ſelf any encouragement to give ſelf any liberty; but watch over that ſpirit, to keep it down, leſt while thou art thus watching over o<g ref="char:EOLhyphen"/>thers, the Enemy get in, and ſo deprive thee of the bleſſing, which the true waiters do receive, and are made partakers of.</p>
+            <p n="3">
+               <pb n="41" facs="tcp:33567:23"/>
+               <hi>3dly,</hi> Take heed of Murmuring at the proſpe<g ref="char:EOLhyphen"/>rity of any, or becauſe, as thou may think, another may be accepted of above thee; but watch over that, to keep it down, for that is <hi>Cain's</hi> Nature, by which the world is guided, and whereby every one are ſtriving to be greateſt; and if that get power in thee, it will eat out thy life, and peace with God, and Union with his People: For God is no reſpecter of per<g ref="char:EOLhyphen"/>ſons, but every one as they come truely to walk uprightly before him, are accepted of him; neither doth he require more of any, then he gives them power to do; for where much is given, much is required: ſo as there is but an improvement of the Talent, which God hath given to profit withal, all ſhall be well at the latter end; and therefore they that do well ſhall be accepted, but they that do evil, ſin lyeth at their doors. And</p>
+            <p>
+               <hi>Laſtly,</hi> I deſire thee, take heed of letting in an evil ſpirit of prejudice, againſt me, as to ſay in thy heart, as the Rebellious <hi>Iſrael</hi> did of old, Who made thee a Judge, and a ruler, o<g ref="char:EOLhyphen"/>ver me; for that is that ſpirit, which would Fly the Croſs, and eſcape the Judgments, which muſt come upon it, before thou can be ac<g ref="char:EOLhyphen"/>cepted of the Lord, or be a fit Tabernacle for him to dwell in: for the Lord God Almighty, who knows the ſecrets of all hearts, knows and is my witneſs, this day, that I have no ſuch deſign, as either to judge thee, or rule over thee; but to the contrary, I deſire that
+<pb n="42" facs="tcp:33567:24"/>I may be as a ſervant to thee, and help to bear thy burthens in any thing, that may tend to the welfare of thine immortal Soul; and therefore I deſire thee ſink down into Gods fear, and let his dread poſſeſs thy heart, and read it in the coolneſs of thy ſpirit, and in ſingleneſs of heart without partiality; then thou wilt come to ſee that I do not write to thee theſe things, by the invention of my own brain, or in my own will, but the Lord is pleaſed to make me an inſtrument in his hand, to ſtir thee up to remember thy Creator in the days of thy youth, and to ſeek after a Saviour, while he is to be found; and therefore do I once more beſeech thee, ſlight not the day of thy viſitation, nor put the day of the Lord afar off, nor truſt not in lying vanities, to ſay in thine heart, thou ſhalt have long life, and thou may take a little pleaſure in thy young years, and then thou will ſerve the Lord, in thy old age; and after ſuch, and ſuch a thing is accompliſhed, thou will leave off thy life of vanity, and then thou wilt ſerve the Lord; Oh! take heed of giving way to it, the more it overcomes thee, and the further thou goes on in that way, the harder will be thy return, and the danger is great, whether ever thou may return or not; therefore bend the twigg while it is young, and turn to the Lord before ſin be too much rooted in thee; for as an old Crooked Tree cannot be made ſtraight, and fit for the building, without much hew<g ref="char:EOLhyphen"/>ing;
+<pb n="43" facs="tcp:33567:24"/>even ſo, they that ſin is much rooted in, and have long perſiſted in wickedneſs, will hardly be redeemed from under the bondage of it; but however, not without many ſtripes; there<g ref="char:EOLhyphen"/>fore, whilſt the Lord in his mercy is thus call<g ref="char:EOLhyphen"/>ing, and inviting with ſo many tender invi<g ref="char:EOLhyphen"/>tations of love, hearken unto him, for the day haſtens upon all, wherein it ſhall be ſaid, <hi>He that is holy, let him be holy ſtill; and he that is filthy, let him be filthy ſtill:</hi> yea, the day of the Lord will come, that ſhall burn as an oven, and all the proud, and all that do wickedly ſhall be as ſtubble be<g ref="char:EOLhyphen"/>fore the fire, and ſhall be utterly conſumed; ſo that there ſhall be no place found for them: and ſo I deſire thee, deal juſtly, and truly with thy own ſoul, and learn a bridle to thy Tongue, that in all thy Spiritual, and Tem<g ref="char:EOLhyphen"/>poral Exerciſes, thy Converſation may be or<g ref="char:EOLhyphen"/>dered aright, both before God and Man: For ſaith, James, <hi>chap.</hi> 1. <hi>v.</hi> 26. <hi>If any Man ſeem to be Religious, and bridleth not his tongue, but de<g ref="char:EOLhyphen"/>ceiveth his own heart, this Mans Religion is vain;</hi> ſo it is not a profeſſion, that will ſerve any, though he may have the form of Godlineſs, yet if he want the power, God will not ac<g ref="char:EOLhyphen"/>cept him, but will cut him off as an untimely Grape, from the Vine; for it is not leaves, but fruit that God looks for; therefore let us labour to bring forth fruit to the glory of the Lord, leſt when he comes to look for fruit, he find nothing but leaves, and ſo curſe
+<pb n="44" facs="tcp:33567:25"/>us as he did the fig tree, and like dead bran<g ref="char:EOLhyphen"/>ches hew us down, and caſt us into the fire. So dear brother! I deſire thee, deal faithfully, and uprightly with all Men, with whom thou haſt to deal, and the Lord will bleſs, and proſper thee in all thy out-goings, and in<g ref="char:EOLhyphen"/>comings; but if thou deal otherwiſe, thou need expect nothing but a Curſe from his Hand; Remember <hi>Joſeph</hi> of Old, who be<g ref="char:EOLhyphen"/>ing a Juſt Man, and faithful to God, though he was a bondſlave, brought a bleſſing up<g ref="char:EOLhyphen"/>on the whole Nation of the Heathens, that when all the Nations about him, was ready to periſh with famine, they did abound with plenty; and how much more may thou, be<g ref="char:EOLhyphen"/>ing a Juſt man, and faithful to God, bring a bleſſing upon thy ſelf, and upon thy own houſe; and now here is the ſum of all theſe lines contained, <hi>To love thy Neighbour, as thy ſelf aend to do unto all men, as thou would they ſhould unto thee, to love mercy and to do justly, and walk H<g ref="char:V">Ʋ</g>MBLY with thy GOD:</hi> Which if thou truly obſerve, and do, the Lord will plant thee as a Tree by the River ſide, and as a Lilly by the Wa<g ref="char:EOLhyphen"/>ter courſes, which neither toyl nor ſpin, yet feed and grow, and is beautifully Array<g ref="char:EOLhyphen"/>ed; for <hi>Solomon</hi> in all his Glory, was never Arrayed like one of theſe. And now I have clea<g ref="char:EOLhyphen"/>red my Conſcience, in doing the meſſage of the Lord faithfully, according to the Abili<g ref="char:EOLhyphen"/>ty which he hath given me; and if the <hi>Lord</hi> ſhould call me to viſit in general<g ref="char:punc">▪</g> as he did
+<pb n="45" facs="tcp:33567:25"/>to thee in particular, I deſire that I may ne<g ref="char:EOLhyphen"/>ver be ſlack, but ever ready to anſwer his re<g ref="char:EOLhyphen"/>quirings, and do his will in all things; and I pray God ſet it home upon thee, that it may anſwer the end, for which it is ſent, that I may caſt my bread upon the waters, and after many days find it; and ſo unto that power, which is only able to ſave to the uttermoſt, all that will come unto it, do I commit thy Soul, with my own, and all that have any deſires of righ<g ref="char:EOLhyphen"/>teouſneſs in them; and I deſire with all my Heart and Soul that we may for ever, be kept upright before the Lord, unto the end of our appointed time: That when he is pleaſed to put a period to our days, &amp; when time unto us on this ſide the grave ſhall be no more, that we may give up our accounts with joy, and lay down our heads with peace, where none can make us afraid, and where our bread for ever may be ſure, and our water never fail<g ref="char:EOLhyphen"/>ing; and that with <hi>Paul</hi> we may conclude, and ſay, <hi>We have fought a good fight, we have kept the faith, and funiſhed our courſe; and hence<g ref="char:EOLhyphen"/>forth, there is laid up for us a Crown of Righteouſneſs;</hi> and not for us only, but for all the Righteous; for the Crown of Glory he a<g ref="char:EOLhyphen"/>lone ſhall wear, that faithful to the end per<g ref="char:EOLhyphen"/>ſevere. So this, with dear love to thee, is all at preſent, from thy ever loving brother,</p>
+            <closer>
+               <signed>Benjamin Padley.</signed>
+               <dateline>
+                  <hi>North Frodingham</hi> in <hi>Houllderneſs</hi> in <hi>Yorkshire,</hi> 
+                  <date>20th. of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th. Month<g ref="char:punc">▪</g> 16<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letters">
+            <pb n="46" facs="tcp:33567:26"/>
+            <head>The Copies of part of two <hi>Letters</hi> to his Brother <hi>John Padley</hi> at <hi>London.</hi>
+            </head>
+            <div n="1" type="letter">
+               <head>The Firſt <hi>Letter.</hi>
+               </head>
+               <opener>
+                  <salute>Dear Brother,</salute>
+               </opener>
+               <p>AFter our dear Love to thee, theſe may let thee know, That I received thine, which I ſuppoſe came by the hand of <hi>John Yates;</hi> but it was but two weeks ſince, yeſterday, and it did rejoyce me greatly, to hear from thee; but more eſpecially, to hear how it was with thee: for I can truly ſay, it is that which my Soul has and doth travel for, that we may be preſerved in Uprightneſs be<g ref="char:EOLhyphen"/>fore the <hi>Lord</hi> unto the end of our days; for bleſſed be his Name, his Tender Care has been over us, and his Compaſſion has been toward us in the days of our Minority, and in the time of our Youth; that though he was pleaſed to ſtrip us of our Faithful Pa<g ref="char:EOLhyphen"/>rents, and to leave us deſtitute of a Habi<g ref="char:EOLhyphen"/>tation, yet he never forſook us, but his pro<g ref="char:EOLhyphen"/>vident hand has gone along with us, and taken care for us beyond what we could e<g ref="char:EOLhyphen"/>ver have expected; that with <hi>Jacob</hi> we may ſay, <hi>The Lord hath fed us all our Life long;</hi> and now it is the deſire of my very Soul and Spirit, that we may walk worthy of
+<pb n="47" facs="tcp:33567:26"/>thoſe Mercies and Bleſſings that the <hi>Lord</hi> hath beſtowed upon us, and that we may truly anſwer the end for which he hath thus viſited our Souls, in faithfully performing that Duty and Service, which the <hi>LORD</hi> hath called us unto, and requires of us, and herein will the <hi>Lord</hi> be glorified by us, and our Souls will receive the everlaſting Reward that will countervail all our Labour and Exerciſe; ſo into his hand do I com<g ref="char:EOLhyphen"/>mit our Souls, together with the Souls of all his Faithful Children every where, who is only able to preſerve and keep us unto the end of our days,</p>
+               <closer>
+                  <signed>Benjamin Padley.</signed>
+                  <dateline>
+                     <hi>Northcave</hi> 
+                     <date>20th. of 1ſt. Month, 1687.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div n="2" type="letter">
+               <head>The Second <hi>Letter.</hi>
+               </head>
+               <opener>
+                  <salute>Dear Brother,</salute>
+               </opener>
+               <p>MY Dear Love is unto thee, deſiring thee may enjoy thy Health, as thro' the <hi>Lords</hi> Mercy we do at preſent, and not only ſo, but inward Peace, Comfort, and Satisfaction; I do daily witneſs and feel in my own particular, and Truth doth grow and proſper amongſt us, which is Matter of great Joy and Comfort unto my Soul, and
+<pb n="48" facs="tcp:33567:27"/>it is the breathing Deſire of my Spirit, that the <hi>Lord</hi> may preſerve thee, with my own Soul, and the Souls of our Dear Friends and Brethren in the Truth, in Uprightneſs before him, unto the end of our days, <hi>&amp;c.</hi>
+               </p>
+               <closer>
+                  <signed>Benjamin Padley.</signed>
+                  <dateline>Yorkſhire, <date>the 29th. of the 11th. Month, 1689.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <head>A Copy of a <hi>Letter</hi> to his Brother, <hi>John Padley,</hi> at <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Beloved Brother,</salute>
+            </opener>
+            <p>THe Salutation of my Endeared Love doth reach unto thee in that inſepa<g ref="char:EOLhyphen"/>rable unity and fellowſhip, which length of miles or diſtance of place cannot ſeparate; as we dwell and abide in that bleſſed Truth which the Lord hath convinced us of; and not ſo only, but through his great mercy, and loving kindneſs hath brought us into obedi<g ref="char:EOLhyphen"/>ence in a pretty large meaſure, to the requi<g ref="char:EOLhyphen"/>rings of it, and it is the very deſire, and Tra<g ref="char:EOLhyphen"/>vel of my Soul and Spirit, that we may be e<g ref="char:EOLhyphen"/>ver kept and preſerved in the ſame obedience, to the end of our days, that as the Lord hath been pleaſed to give unto each particular of us a Tallent, to profit with all, that we now
+<pb n="49" facs="tcp:33567:27"/>may be truely and faithfully exerciſed, for the improvement of it to the glory of God, and to the benefit and advantage of our im<g ref="char:EOLhyphen"/>mortal Souls; that when the Lord is pleaſed to call us to an account, that we may appear before him with joy, and receive the anſwer of <hi>Well done</hi> into our boſomes; and this will be more cauſe of joy, and gladneſs unto us, than though we could gain the whole world and want this.</p>
+            <p>And now my Dear Brother, by this thee may underſtand, that I have received thine baring date the 26th. of this month, as alſo two, that my Wife received before I came home; the reading of which hath greatly glad<g ref="char:EOLhyphen"/>ed my heart, as alſo the account that I had of thee by our dear Friends, <hi>John Whitehead, John Bouram,</hi> and <hi>Robert Lodge,</hi> which all did give me a very good account of thee; and I can truely ſay, it did abundantly rejoyce me to hear of thy welfare, and proſperity every way, but more eſpecially of thy growth in the Truth, in which I pray God preſerve, and continue thee with my own Soul, and every one whom he hath called, that his work may proſper in us, and that we may ſtand as living witneſſes for him in our age and generation, amongſt thoſe whom he hath placed us; for bleſſed be the name of the Lord our God for ever, that hath not left us to our ſelves, nor ſuffered the enemy of our Souls to deſtroy us, neither hath he cut us off in
+<pb n="50" facs="tcp:33567:28"/>our Tranſgreſſion, but hath ſpared us to be as Monuments of his Mercy; and not only ſo, but his bleſſings is largely extended to<g ref="char:EOLhyphen"/>wards us to this very day, that my Soul can ſay that he is become an open fountain, and a place of broad Rivers, unto them that true<g ref="char:EOLhyphen"/>ly fears him, and is given up to ſerve him; he is making them to drink of the waters of a full cup, to the glading of their Souls, for which my Soul is ingaged to return Glory, Honour, and Thankſgiving unto him, who is God over all bleſſed, for ever and ever, <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+            <p>Friends, here about, are generally well, one<g ref="char:EOLhyphen"/>ly <hi>Chriſtopher Hutton</hi> lyeth a dying, if he be not dead; his Son <hi>Emanuel</hi> was taken away laſt winter, he dyed a very honeſt young Man. So deſiring theſe may find thee in good health, as through the Lords Mercy we are at preſent, we remain with our dear Loves to thee, deſiring to hear from thee, which is moſt at preſent, from,</p>
+            <closer>
+               <signed>
+                  <hi>Thy truly Loving Brother, <hi>Benjamin Padley.</hi>
+                  </hi>
+               </signed>
+               <dateline>
+                  <hi>Northcave</hi> 
+                  <date>29th. of 4th. Month, 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="51" facs="tcp:33567:28"/>
+            <head>A <hi>Letter</hi> ſent unto his Brother, <hi>John Padley.</hi>
+            </head>
+            <opener>
+               <salute>Dearly Beloved Brother,</salute>
+            </opener>
+            <p>THe Salutation of my endeared Love is unto thee deſiring of the <hi>Lord,</hi> that he may preſerve thee, with my own Soul, in Faithfulneſs before him, in anſwering his Requiring, and doing thoſe things which he makes manifeſt to be our Duty, though it may be never ſo great a Croſs to our own Wills; for they that will be Chriſts Diſci<g ref="char:EOLhyphen"/>ples, they muſt come truly to Witneſs a dayly taking up of his Croſs, and a dayly dying unto thoſe things in which we have formerly delighted, and give up truly to fol<g ref="char:EOLhyphen"/>low the Lord in the true ſelf-denyal to be truly acted, ordered, and guided according to his Good Will and Pleaſure: And now, dear Brother, that which is upon me at this time, to lay before thee by way of caution, is, to deſire thee to be careful, leſt the E<g ref="char:EOLhyphen"/>nemy beguile thee, by drawing thy Mind into ſome viſible thing or other; for it was my Loſs when I began to ſet up an Imploy<g ref="char:EOLhyphen"/>ment for my ſelf, my Mind being haſty and deſirous to gain Wealth, and to accompliſh great things; I was altogether fruſtrated, for I did not only loſe in outward things, but I partly loſt my inward Condition, that
+<pb n="52" facs="tcp:33567:29"/>I did not enjoy the Preſence of the Lord in ſo large a Meaſure as I had formerly done, but bleſſed be the God of my Life forever, who has not left me to this day, but he has preſerved with his Righteous Judgments, that has been greatly mixt with Mercy; and now bleſſed be his Name for ever, whoſe Bleſſings and Mercies I do enjoy this day in my mea<g ref="char:EOLhyphen"/>ſure; and therefore unto him be the Praiſe and Glory, who alone is worthy over all; and ſo it is the deſire of my Soul, that we may both be preſerved faithful before the LORD, however it may go with us as to outward things, that we may firſt ſeek the Kingdom of Heaven, and the Righteouſneſs thereof: And I do believe the Lord will not ſuffer us to want thoſe things that is needful for us, but they that makes haſt to be rich, do run themſelves into a Snare, and is in danger to fall into a Pit; but it is my Hope and Conſidence in the Lord, that as we ſtand in his Councel, and dwells in Humility, deſiring to be preſerved faithful in all our Undertakings, the Bleſſings of the Lord will be with us, and he will ſtill de<g ref="char:EOLhyphen"/>light to ſhew Mercy unto our Souls, that we ſhall have freſh occaſion to bleſs and magni<g ref="char:EOLhyphen"/>fie his great and powerful Name, who a<g ref="char:EOLhyphen"/>lone is worthy over all, for ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Benjamin Padley.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:33567:29"/>
+            <head>A <hi>Catalogue</hi> of ſome Books Printed for and Sold by <hi>Tho. Northcott</hi> in <hi>George-Yard</hi> in <hi>Lumbard-ſtreet.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>JOhn Burnyeat</hi>'s Works, <hi>Price</hi> 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>G. Keith</hi>'s Presbyterian and Independant, Viſible Churches, in <hi>New-England,</hi> and elſe<g ref="char:EOLhyphen"/>where, brought to the Teſt, and examined, ac<g ref="char:EOLhyphen"/>cording to the <hi>Holy Scripture, Price</hi> 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>— His Way to the <hi>City of God,</hi> 1 <hi>s.</hi>
+               </item>
+               <item>— His <hi>Fundamental Truths of Chriſti<g ref="char:EOLhyphen"/>anity, Price</hi> 8 <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>Stephen Criſps</hi> Alarum ſounded in the Bor<g ref="char:EOLhyphen"/>ders of Spiritual <hi>Aegypt,</hi> which ſhall be heard in <hi>Babylon, Price</hi> 3 <hi>d.</hi>
+               </item>
+               <item>— His Epiſtle concerning the Preſent and Succeeding Times, <hi>Price</hi> 2 <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>G. Fox</hi> the Younger's Works, <hi>Price</hi> 1 <hi>s.</hi> 8. <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>Eliz. Bathurſts</hi> Truths Vindication, <hi>Price</hi> 8 <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>Sam. Fiſher</hi>'s Works, <hi>Price</hi> 12 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>William Tomlinſon</hi>'s Innovations of Popery, <hi>Price,</hi> 6 <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>Buds and Bloſſoms of Piety,</hi> Price 1 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>G. F</hi>'s ſeveral Treatiſes, worthy of every true Chriſtian's ſerious Conſideration, <hi>Pr.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>R. Barclay</hi>'s Apology for the <hi>True Chriſtian Divinity,</hi> Price 4 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>Robert Barclay</hi>'s Works, <hi>Price</hi> 12 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>Francis Howgil</hi>'s Works, <hi>Price</hi> 10 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>Iſaac Penington</hi>'s Works, <hi>Price</hi> 12 <hi>s.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
